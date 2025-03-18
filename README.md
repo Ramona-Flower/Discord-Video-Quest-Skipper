@@ -1,7 +1,10 @@
 # Discord-Video-Quest
 
-This script allows you to make video playback on Discord almost instant by speeding up the playback rate by over 19x faster.  this script ensures your Discord video quests are completed almost immediately!
+This script allows you to make video playback on Discord almost instant by speeding up the playback rate by over 16x faster.  this script ensures your Discord video quests are completed almost immediately!
 ## ⭐ Feel free to star this repository ⭐
+
+Get the code [by clicking here !](https://github.com/Ramona-Flower/Discord-Video-Quest/blob/main/scripts.js) or by checking the readme ! 
+
 # Features
 
 - Increase playback rate to 16x the normal speed.
